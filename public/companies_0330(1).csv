@@ -1,0 +1,100 @@
+company_code,company_name,level,country,city,founded_year,annual_revenue,employees
+C0,"Rodriguez, Figueroa and Sanchez",1,China,Beijing,1994,317736,4606
+C01,Doyle Ltd,2,Japan,Nagoya,1917,429408,889
+C02,"Mcclain, Miller and Henderson",2,China,Hangzhou,1954,894345,310
+C03,Davis and Sons,2,USA,Los Angeles,1927,391732,1955
+C04,"Guzman, Hoffman and Baldwin",2,USA,Dallas,1925,227886,4514
+C05,"Gardner, Robinson and Lawrence",2,France,Toulouse,1957,490037,4877
+C06,Blake and Sons,2,UK,London,1997,535398,1357
+C07,"Henderson, Ramirez and Lewis",2,France,Nantes,1935,198265,1323
+C08,Garcia-James,2,Japan,Fukuoka,1913,335604,809
+C09,Abbott-Munoz,2,France,Marseille,1945,1083726,2867
+C10,Blair PLC,2,UK,London,1993,228422,3813
+C11,Dudley Group,2,China,Tianjin,1910,175109,4572
+C12,Arnold Ltd,2,UK,Cardiff,2013,475218,3012
+C13,"Mcclure, Ward and Lee",2,Japan,Osaka,1905,876499,1916
+C14,Williams and Sons,2,UK,Manchester,2009,123675,1957
+C15,Galloway-Wyatt,2,China,Tianjin,1935,366675,3764
+C16,James Group,2,India,Bangalore,1947,484743,2960
+C17,"Flowers, Martin and Kelly",2,Japan,Sapporo,1989,444189,634
+C18,"Adams, Zuniga and Wong",2,Germany,Essen,1993,850126,2055
+C19,"Reid, Ferguson and Sanchez",2,Germany,Dortmund,1948,217835,2261
+C20,Gray-Mayo,2,Japan,Fukuoka,2007,928281,508
+C21,"Watts, Robinson and Nguyen",2,Japan,Tokyo,2003,335826,2634
+C22,Perez Inc,2,France,Nice,1908,229891,1778
+C23,Morales-Jones,2,India,Hyderabad,1983,193101,4139
+C24,"Walter, Edwards and Rios",2,France,Montpellier,1918,266811,2219
+C25,Wilkerson-Day,2,Germany,Frankfurt,1995,354913,4648
+C26,Baker and Sons,2,UK,Cardiff,1954,284815,4830
+C27,"Hoffman, Baker and Richards",2,France,Nantes,1928,376663,1183
+C28,"Ross, Robinson and Bright",2,Canada,Montreal,1996,470917,435
+C29,"Snyder, Campos and Callahan",2,China,Guangzhou,1980,465672,1360
+C30,Burton Ltd,2,France,Lille,1908,855686,3202
+C31,Carlson-Cruz,2,France,Lille,1959,343316,4384
+C32,"Ferrell, Rice and Maddox",2,UK,Bristol,2010,227107,144
+C33,Frazier Inc,2,China,Nanjing,1996,769560,2235
+C34,"Dyer, Potter and Mack",2,India,Delhi,1937,415405,3611
+C35,Rodriguez-Graham,2,Germany,Dortmund,1900,716999,2207
+C36,Smith-Bowen,2,Germany,Essen,2016,446519,921
+C37,"Baker, Mason and White",2,UK,Bristol,1977,235970,1679
+C38,Harrell LLC,2,Germany,Stuttgart,1997,380049,1373
+C39,"Romero, Gonzalez and Brooks",2,USA,San Jose,1941,304137,4052
+C40,Ryan PLC,2,USA,Los Angeles,2018,452544,3023
+C41,George Group,2,UK,Liverpool,1907,674650,2023
+C42,Rodriguez LLC,2,China,Shanghai,1993,117319,4031
+C43,Allen-Allen,2,China,Nanjing,1998,591395,1080
+C44,"Arroyo, Miller and Tucker",2,Germany,Dortmund,2021,264230,4553
+C45,Spence PLC,2,Germany,Cologne,1967,579757,3516
+C46,Anderson Group,2,Japan,Kawasaki,1996,891970,1697
+C47,"Martin, Rose and Obrien",2,UK,Sheffield,1985,206292,3109
+C48,Hickman Ltd,2,Canada,Hamilton,1957,788430,1041
+C49,"Harris, Collins and Carney",2,Japan,Nagoya,1908,194187,2819
+C50,"Brooks, Lam and Hayes",2,USA,San Jose,1970,195767,1935
+C001,Walker LLC,3,Japan,Tokyo,1994,94834,744
+C002,Chapman and Sons,3,USA,Houston,1994,92538,947
+C003,"Robinson, Jones and Welch",3,USA,Philadelphia,1994,430915,546
+C004,Jones Inc,3,Japan,Sapporo,2021,82422,239
+C005,Jones-Young,3,Germany,Leipzig,2020,179207,268
+C006,"Washington, Ryan and Cummings",3,Canada,Winnipeg,2002,58866,116
+C007,"Johnston, Sanchez and Kennedy",3,China,Tianjin,2012,131937,453
+C008,Lee-Davis,3,France,Montpellier,1993,62898,709
+C009,Gomez-Jenkins,3,China,Beijing,2015,87487,765
+C010,"Brown, Valdez and Lucas",3,India,Delhi,2005,196241,216
+C011,Powell LLC,3,Japan,Kawasaki,2018,76386,163
+C012,Wright and Sons,3,France,Lyon,2007,223220,493
+C013,"West, Henderson and Ramirez",3,Japan,Osaka,2018,319897,847
+C014,Baxter Inc,3,China,Beijing,1990,294582,115
+C015,Morton-Chase,3,Japan,Yokohama,2016,66337,517
+C016,Williams PLC,3,Canada,Calgary,2015,259724,944
+C017,Novak and Sons,3,USA,Chicago,2014,169698,22
+C018,Russell Group,3,France,Nice,2019,111133,312
+C019,Hancock Inc,3,France,Bordeaux,2021,118736,178
+C020,Gray Group,3,Japan,Sapporo,2003,167907,79
+C021,House-Glover,3,USA,Philadelphia,1993,164329,71
+C022,Henderson-Bernard,3,Canada,Hamilton,2023,116253,181
+C023,"Stanley, Tucker and Lee",3,USA,Dallas,1995,119056,891
+C024,Novak PLC,3,Germany,Munich,1994,80828,711
+C025,"Daniels, Adkins and Brown",3,Japan,Kobe,1997,154710,984
+C026,"Woods, Calhoun and Schmidt",3,Japan,Saitama,1992,109822,654
+C027,Yu Inc,3,China,Tianjin,2023,152089,343
+C028,Jones Inc,3,UK,Liverpool,2010,414442,264
+C029,"Hensley, Powell and David",3,UK,Sheffield,1998,91845,707
+C030,"Sanchez, Wheeler and Harvey",3,UK,Edinburgh,2010,135748,971
+C031,Sandoval-Cunningham,3,China,Beijing,2019,124890,656
+C032,Donovan-Harris,3,China,Shanghai,2003,164550,538
+C033,"Edwards, Baker and Anderson",3,UK,Birmingham,2012,198365,922
+C034,"Evans, Stewart and Walton",3,China,Shenzhen,2013,171848,311
+C035,Smith PLC,3,Germany,Dortmund,2009,164394,646
+C036,"Ferrell, Jones and Lewis",3,USA,Dallas,2009,197289,974
+C037,Anderson-Bailey,3,China,Guangzhou,2006,148640,138
+C038,Suarez LLC,3,China,Nanjing,1999,183697,298
+C039,Moore-Bass,3,UK,Cardiff,2003,199582,754
+C040,"Turner, Riggs and Roman",3,India,Hyderabad,2006,129368,537
+C041,"Smith, Montoya and Evans",3,Canada,Ottawa,1993,115240,114
+C042,"Garcia, Humphrey and Baker",3,France,Nice,1992,100397,23
+C043,Newton and Sons,3,India,Bangalore,2006,64247,185
+C044,Campbell-Clark,3,Canada,Hamilton,2017,195800,594
+C045,Harris-Walters,3,USA,Los Angeles,1994,177020,987
+C046,Wagner-King,3,Germany,Essen,1992,115433,874
+C047,Davis Group,3,India,Jaipur,1999,159553,460
+C048,Williams-Cook,3,Germany,Berlin,2009,198948,393
